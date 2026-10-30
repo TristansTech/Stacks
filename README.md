@@ -26,18 +26,16 @@ A stack follows the **LIFO** principle: *last in, first out*. The last value pus
 Compile and run with g++:
 
 ```bash
-g++ main.cpp -o stack_demo
+g++ stack_demo.cpp -o stack_demo
 ./stack_demo
 ```
 
 On Windows:
 
 ```bash
-g++ main.cpp -o stack_demo.exe
+g++ stack_demo.cpp -o stack_demo.exe
 stack_demo.exe
 ```
-
-> Replace `main.cpp` with the name of your source file if it's different.
 
 ## Sample output
 
